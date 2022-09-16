@@ -8,7 +8,7 @@
 
 Projeto construido no evento Next Level week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://LarissaBrito-Dev.github.io/NLW-Esports-Explorer/)
+[🔗 Clique aqui para acessar](https://larissabrito-dev.github.io/NLW-Esports-Explorer/)
 
 
 ## 🔧 Tecnologias
